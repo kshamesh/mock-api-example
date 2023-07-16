@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "John Marshal",
+      "email": "john@nov.biz"
+    },
+    {
+      "id": 2,
+      "username": "Mickey Mouse",
+      "email": "micky@pqr.tv"
+    },
+    {
+      "id": 3,
+      "username": "Peter Herrald",
+      "email": "peter@xyz.net"
+    }
+  ]
+}
